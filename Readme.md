@@ -6,7 +6,7 @@
 
 我们一直欢迎大家做出贡献！
 
-感谢所有人。
+感谢所有人。材料来自：@shah0150 & @kbtxwer
 
 * [超棒的雅思资源](#awesome-ielts)
     * [雅思简介](#introielts)

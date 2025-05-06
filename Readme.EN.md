@@ -6,7 +6,7 @@ A collection of awesome IELTS web sites , tools, applications, and youtube chann
 
 Contributions are always welcome!
 
-Thanks to all
+Thanks to all. Resources from: @shah0150 & @kbtxwer
 
 * [Awesome IELTS resources](#awesome-ielts)
     * [Intoduction To IELTS](#introielts)
