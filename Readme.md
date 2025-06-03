@@ -1,10 +1,15 @@
 # 超棒的雅思资源！
 
-[![超棒](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## 下载或克隆本项目， 打开根目录index.html即可开始雅思学习
 
-这是一个关于超棒的雅思相关网站、工具、应用程序以及 YouTube 频道的集合。
+![image](https://github.com/user-attachments/assets/23ac47e3-66bc-44b4-9da9-36ff504a5a2c)
 
-我们一直欢迎大家做出贡献！
+### 真题
+![image](https://github.com/user-attachments/assets/7cf6223d-e5d5-45a3-a798-72a916ecbf3c)
+
+### 听力
+![image](https://github.com/user-attachments/assets/bae34a6d-9ad0-4fb5-ba00-4982c284253e)
+
 
 感谢所有人。材料来自：@shah0150 & @kbtxwer
 
